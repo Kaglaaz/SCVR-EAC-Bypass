@@ -1,3 +1,6 @@
+Download the SCVR-EAC-BypassV1_1.zip file and unzip it anywhere on your computer!
+
+
 Hello Citizens! Welcome to the 'VRse!
 
 This small script is simple to use. Simply double click the SCVR-EAC-Bypass.exe and choose the drive that your Star Citizen files are installed on the drop down. 
